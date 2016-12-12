@@ -37,3 +37,17 @@ print '\n'
 
 print 'Your final points are: '
 print POINTS
+
+'''
+grading down below
+i have not figured out the comments
+'''
+
+if POINTS <= 20 and POINTS >= 16:
+    print ''
+else if POINTS <= 15 and POINTS >= 11:
+    print ''
+else if POINTS <= 10 and POINTS >=6:
+    print ''
+else:
+    print ''
